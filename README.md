@@ -1,2 +1,4 @@
-# go-server
-A simple server written in golang! :gopher
+# Go Server
+
+A simple web server written in golang!
+
